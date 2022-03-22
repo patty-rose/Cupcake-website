@@ -1,0 +1,33 @@
+body{
+  background-color:palevioletred;
+  text-align:center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:30px;
+}
+h1{
+  font-size: 100px;
+}
+
+h2{
+  font-size: 75px;
+}
+
+ul{
+  list-style:none;
+}
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+.img{
+  text-align: center;
+  width:100%;
+  height:auto;
+}
+
+.best{
+  font-size: 100px;
+  color:lime;
+}
