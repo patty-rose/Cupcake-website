@@ -26,6 +26,7 @@ ul{
   text-align: center;
   width:%;
   height:auto;
+  float: center;
 }
 
 .best{
@@ -37,6 +38,12 @@ ul{
   font-family:monospace;
   font-style:none;
   font-size:20px;
+}
+
+.sidebar {
+  width: 25%;
+  float: left;
+  background-color: rgb(221, 166, 196);
 }
 
 .sweet{
